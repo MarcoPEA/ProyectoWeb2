@@ -15657,6 +15657,11 @@
       "FilePath": "c:\\Users\\Marco\\Web2\\ProyectoWeb2\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Marco\\Web2\\ProyectoWeb2\\Views\\Home\\RegistroCliente.cshtml",
+      "TargetPath": "Views\\Home\\RegistroCliente.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

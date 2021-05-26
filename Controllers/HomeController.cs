@@ -22,6 +22,10 @@ namespace ProyectoFinal.Controllers
         {
             return View();
         }
+        public IActionResult RegistroCliente()
+        {
+            return View();
+        }
         public IActionResult Login()
         {
             return View();
